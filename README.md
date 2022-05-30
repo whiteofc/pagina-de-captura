@@ -2,4 +2,4 @@
 Página de captura feita a título de estudos, curso programadorBR.
 
 
-<img src="https://i.ibb.co/g4607Cn/Screenshot-1.png" width="120px">
+<img src="https://i.ibb.co/g4607Cn/Screenshot-1.png" width="500px">
